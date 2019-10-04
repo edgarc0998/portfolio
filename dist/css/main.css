@@ -30,7 +30,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.8;
+  opacity: 0.97;
   visibility: hidden;
 }
 .menu.show {
@@ -246,7 +246,6 @@ main#home h1 {
   width: 100%;
   border: 3px white solid;
 }
-
 .projects img:hover {
   opacity: 0.5;
   border-color: #c3073f;
